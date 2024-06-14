@@ -1,18 +1,20 @@
-🏌️‍♂️ KAUSHIK J
+🏌🏽‍♂️ KAUSHIK J
 =
 ---
-
-![](https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif?cid=ecf05e47iib4ybu0ezfwqfu43gsfetthpxdcmfl25k0ijfs2&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif?cid=ecf05e47iib4ybu0ezfwqfu43gsfetthpxdcmfl25k0ijfs2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Description">
+</p>
 
 
 **Hola GitHub Users 🐺,**
+=
 
-Hope you are all in Good Health. I'm JK, AWS Developer and a DevOps Enthusiast. You are now reading about a guy who has craze in learning new technologies which are particularly related to Cloud and DevOps. 
+Hope you are all in Good Health. I'm JK, AWS Developer and a DevOps Enthusiast. You are now reading about a guy who has a craze in learning new technologies which are particularly related to Cloud and DevOps. 
 
-Apart from Studies and Career, I play Chess [My Profile](https://www.chess.com/member/jk_scientist) and have a special place in my heart for Photography📸 [Say Cheese😁].
+Apart from Studies and Career, I play Chess [My Profile](https://www.chess.com/member/jk_scientist) and I have a special place in my heart for Photography📸 [Say Cheese😁].
 
-_**What am I doing now?**_
+🐣 _**What am I doing now?**_
+=
 - Working on many POC's daily to improve my knowledge.
 - Aiming to master DevOps within this Year.
 - Growing out by adding Multi-Cloud in my Arsenal.
@@ -21,28 +23,33 @@ _**What am I doing now?**_
   
 **Also I can guide the people who are starting with Cloud Technologies!**
 
-_**What I'm Looking for:**_
+👀 _**What I'm Looking for:**_
+=
 
 - A Job at a Cloud-Based Company.
 - Guidance to improve myself with DevOps Practices.
 
-_**Short Term Goals:**_
+🚩 _**Short Term Goals:**_
+=
 
 - To become an AWS Developer Associate.
 - To pass AZ-900
 
-_**Long Term Goals:**_
+🏁 _**Long Term Goals:**_
+=
 
 - CKAD.
 - AWS Certified DevOps Engineer.
-
-_**Reach me on:**_
+  
+🏍 _**Reach me out on:**_
+=
 
 **LinkedIn :** [Kaushik J](www.linkedin.com/in/kaushik-jk)
 
 **E-Mail :** [kaushikjk18@gmail.com](kaushikjk18@gmail.com)
 
-_**Tech Stack:**_
+🛠 _**Tech Stack:**_
+=
 <p>
   <img src="https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/250dbd37-62ea-49bd-82a5-a47b7642b351" alt="Logo 1" width="50" height="50" style="margin-right: 10px;" />
   <img src="https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/5771be5c-92b0-458f-930e-b71ccbdef1f6" alt="Logo 2" width="50" height="50" style="margin-right: 10px;" />
