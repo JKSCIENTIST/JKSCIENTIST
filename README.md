@@ -2,7 +2,8 @@
 =
 ---
 
-![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/6f420599-9b6d-45a4-ba71-38dce0691857)
+![](https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif?cid=ecf05e47iib4ybu0ezfwqfu43gsfetthpxdcmfl25k0ijfs2&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 
 
 **Hola GitHub Users 🐺,**
@@ -38,12 +39,31 @@ _**Long Term Goals:**_
 _**Reach me on:**_
 
 **LinkedIn :** [Kaushik J](www.linkedin.com/in/kaushik-jk)
+
 **E-Mail :** [kaushikjk18@gmail.com](kaushikjk18@gmail.com)
 
 _**Tech Stack:**_
+<p>
+  <img src="https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/250dbd37-62ea-49bd-82a5-a47b7642b351" alt="Logo 1" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/5771be5c-92b0-458f-930e-b71ccbdef1f6" alt="Logo 2" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/cf6302fd-10a1-4732-8145-38d721e10f68" alt="Logo 3" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/2729af3a-b669-425c-b269-83059422d44f" alt="Logo 4" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/3d561894-1f45-468c-996d-58ef629de741" alt="Logo 5" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/d1dbb48e-f704-4bb0-b15c-a76ce0ff6440" alt="Logo 6" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/75c34474-01b4-4e97-a263-e71eab89b040" alt="Logo 9" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/25399adc-d463-47f3-8690-eeae60561aa5" alt="Logo 10" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/7de10573-c4a6-4ee3-b513-53e850b4a4f2" alt="Logo 11" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/d830d6f7-9576-45ae-ae68-c704cd41f9f0" alt="Logo 12" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/3de77151-9a03-4f24-9884-2b9ef3f2aeb4" alt="Logo 13" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/5b24af99-ba26-478d-ba1c-f5581a33c8fc" alt="Logo 14" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/50b6d19a-70b4-4195-b7c5-51be7fc4b866" alt="Logo 15" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/a4ba18a0-64fd-476c-aa69-f17c6d1d38c3" alt="Logo 16" width="50" height="50" style="margin-right: 10px;" />
+  <img src="https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/3c129646-ae5e-44f7-911c-453b417f8a59" alt="Logo 17" width="50" height="50" style="margin-right: 10px;" />
+</p>
 
-![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/f94a2e83-21dc-4903-879b-20d56c322152) ![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/5771be5c-92b0-458f-930e-b71ccbdef1f6) ![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/cf6302fd-10a1-4732-8145-38d721e10f68) ![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/2729af3a-b669-425c-b269-83059422d44f) ![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/606cfe64-983b-4def-8698-4ce0f2affd2e) ![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/d1dbb48e-f704-4bb0-b15c-a76ce0ff6440) ![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/85c0f01e-7e30-43bc-9dcf-f9e047295e83) ![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/44017bb7-3348-42c4-9105-24363b54a6b4) ![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/75c34474-01b4-4e97-a263-e71eab89b040) ![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/25399adc-d463-47f3-8690-eeae60561aa5) ![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/7de10573-c4a6-4ee3-b513-53e850b4a4f2) ![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/d830d6f7-9576-45ae-ae68-c704cd41f9f0) ![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/f0b8eb56-95d0-46c5-876e-f649f06afc05) ![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/5b24af99-ba26-478d-ba1c-f5581a33c8fc) ![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/50b6d19a-70b4-4195-b7c5-51be7fc4b866) ![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/a4ba18a0-64fd-476c-aa69-f17c6d1d38c3) ![image](https://github.com/JKSCIENTIST/JKSCIENTIST/assets/136571338/eef842db-0e66-485e-b2c9-39e137f09382) 
+</p>
 
+---
 
 
 
