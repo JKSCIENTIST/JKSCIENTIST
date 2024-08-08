@@ -15,7 +15,7 @@ Apart from Studies and Career, I play Chess [My Profile](https://www.chess.com/m
 
 🐣 _**What am I doing now?**_
 =
-- Working on many POC's daily to improve my knowledge.
+- Working on POC's daily to improve my knowledge.
 - Aiming to master DevOps within this Year.
 - Growing out by adding Multi-Cloud in my Arsenal.
 - A student mentor for the people at AWS Cloud Club SJIT.
@@ -33,7 +33,7 @@ Apart from Studies and Career, I play Chess [My Profile](https://www.chess.com/m
 =
 
 - To become an AWS Developer Associate.
-- To pass AZ-900
+- To pass AZ-900 [Done and Dusted ✅]
 
 🏁 _**Long Term Goals:**_
 =
