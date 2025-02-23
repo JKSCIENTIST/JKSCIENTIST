@@ -32,7 +32,8 @@ Apart from Studies and Career, I play Chess [My Profile](https://www.chess.com/m
 🚩 _**Short Term Goals:**_
 =
 
-- To become an AWS Developer Associate.
+- To learn Kubernetes from the basics.
+- To become an AWS Developer Associate [Done and Dusted ✅]
 - To pass AZ-900 [Done and Dusted ✅]
 
 🏁 _**Long Term Goals:**_
