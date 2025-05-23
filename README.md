@@ -15,11 +15,8 @@ Apart from Studies and Career, I play Chess [My Profile](https://www.chess.com/m
 
 🐣 _**What am I doing now?**_
 =
-- Working on POC's daily to improve my knowledge.
-- Aiming to master DevOps within this Year.
-- Growing out by adding Multi-Cloud in my Arsenal.
-- A student mentor for the people at AWS Cloud Club SJIT.
-- Last but not the least I'm a Final year CSE Undergraduate Student.
+- Aiming to master DevOps within this Year [2025].
+- A student mentor for the people at AWS Cloud Club St. Joseph's Group Of Institutions.
   
 **Also I can guide the people who are starting with Cloud Technologies!**
 
